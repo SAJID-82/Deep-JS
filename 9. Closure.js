@@ -11,4 +11,5 @@ function ask(question){
     }, 1000);
 }
 
-ask("What is closure?");
+// ask("What is closure?"); 
+
